@@ -1,0 +1,82 @@
+Privacy Policy
+
+Effective Date: 07/01/2025
+
+Trak Vault (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our app, which allows users to track their collections and participate in buying, selling, or trading items.
+
+1. Information We Collect
+a. Personal Information
+When you use our app, we may collect personal information, including:
+
+Name
+
+Email address
+
+Username
+
+Profile photo (optional)
+
+Location (if you enable location-based features)
+
+b. Collection & Trade Data
+We may collect data related to your collection items, including:
+
+Item names, photos, and descriptions
+
+Trade history
+
+Buying/selling activity
+
+c. Device & Usage Information
+We may collect:
+
+Device type and operating system
+
+Log data (e.g., IP address, access times, pages viewed)
+
+App crash reports and performance logs
+
+2. How We Use Your Information
+We use your information to:
+
+Provide and improve our services
+
+Personalize your app experience
+
+Facilitate trades, sales, and purchases
+
+Communicate with you about app updates or account issues
+
+Monitor usage and prevent fraud or misuse
+
+3. How We Share Your Information
+We do not sell your personal data. We may share your information:
+
+With other users (e.g., profile name and collection details if you choose to make them public)
+
+With service providers that help us run the app (e.g., cloud hosting)
+
+When required by law or to protect our rights
+
+4. Your Choices
+Profile Visibility: You can manage what parts of your profile and collection are public.
+
+Notifications: You can choose to receive or disable notifications from the app.
+
+Data Access/Deletion: You can request access to or deletion of your data by contacting us at [insert contact email].
+
+5. Security
+We implement reasonable measures to protect your information from unauthorized access, but no app can be 100% secure. Please keep your login credentials safe.
+
+6. Children’s Privacy
+Our app is not intended for children under 13 (or the age of digital consent in your region). We do not knowingly collect data from children.
+
+7. Changes to This Policy
+We may update this Privacy Policy from time to time. We’ll notify you of any major changes via the app or email.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, contact us at:
+
+Email: trakvault1@gmail.com
+App Name: Trak Vault
+Company Name: Trak Vault
