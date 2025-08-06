@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  background-color:#7dadfa;
+  padding: 0;
+}
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+h2 {
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+h4 {
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+p {
+  margin-bottom: 1rem;
+}
+p, li {
+  color:#c9c7c7;
+}
+ul {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+.center{
+  text-align: center;
+  justify-content: center;
+}
+.container {
+  max-width: 90%;
+  width:800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.7);
+  background-color: #011428;
+  color: white;
+  border: solid white 1px;
+  border-left: solid white 5px;
+  border-top: solid white 5px;
+}
+.flex{
+  display:flex;
+  width: 100%
+}
+.head{
+  background-color: #011428;
+  color: white;
+  padding: 20px;
+}
+.paddingLeft{
+  padding-left: 10%;
+}
+#logoHead{
+  width: 100px;
+  height: 100px;
+  float: right;
+  position: relative;
+  right: 0;
+}
+#space{
+  width: 50%;
+}
