@@ -1,15 +1,18 @@
-Trak Vault: Terms of Affiliation
-Terms of Use for Affiliation on Trak Vault
+TERMS OF USE FOR AFFILIATION ON TRAK VAULT
 Effective Date: January 1, 2026
+
+
+Terms of Use for Affiliation on Trak Vault (v3)
+Effective Date: April 15, 2026
 
 Introduction
 Welcome to the Trak Vault Affiliate Program! These Terms of Use ("Terms") govern the relationship between Trak Vault and individuals or entities seeking a mutual promotional association. By enrolling as an affiliate, you agree to comply with these Terms.
 
 1. Eligibility
-Businesses and individuals may apply for affiliation. Affiliates must be at least 18 years old and legally permitted to enter into binding contracts. We reserve the right to approve or reject any affiliate application at our sole discretion based on brand alignment.
+Businesses and individuals may apply for affiliation. Affiliates must be at least 18 years old and legally permitted to enter into binding contracts. Trak Vault reserves the right to approve or reject any affiliate application at its sole discretion based on brand alignment.
 
 2. Affiliate Conduct and Content
-Affiliates must promote Trak Vault in a lawful and ethical manner. Prohibited promotional methods include:
+Affiliates must promote Trak Vault in a lawful and ethical manner. Prohibited promotional methods include, but are not limited to:
 
 Illegal, misleading, or deceptive marketing practices.
 
@@ -19,25 +22,28 @@ Promoting Trak Vault on sites containing hate speech, violence, or discriminator
 
 Any activity that infringes on the intellectual property rights of Trak Vault or third parties.
 
-3. Links and Promotional Materials
-Upon approval, Trak Vault may provide authorized assets (logos, links, banners). We reserve the right to:
+3. Confidentiality and Non-Disclosure
+Both parties agree not to share communications, sensitive information, or information regarding plans like upcoming features, sponsors, or partnerships, unless both parties agree prior to disclosure.
+
+4. Links and Promotional Materials
+Upon approval, Trak Vault may provide authorized assets (logos, links, banners). Trak Vault reserves the right to:
 
 Determine the approved format and appearance of all affiliate assets.
 
-Require the removal of assets from platforms we deem inappropriate.
+Require the removal of assets from platforms deemed inappropriate.
 
 Modify promotional materials at any time to maintain platform integrity.
 
-4. Mutual Promotion and Value Exchange
+5. Mutual Promotion and Value Exchange
 The Trak Vault Affiliate Program is primarily based on a mutual promotion model.
 
 Affiliate Obligations: The Affiliate agrees to promote Trak Vault services to their respective audience as outlined in their specific partnership track.
 
-Trak Vault Obligations: In exchange, Trak Vault may provide promotional visibility for the Affiliate within the Trak Vault platform, social channels and/or any additional promiotional obligations outlined in their specific partnership track.
+Trak Vault Obligations: In exchange, Trak Vault may provide promotional visibility for the Affiliate within the Trak Vault platform, social channels, and/or any additional promotional obligations outlined in their specific partnership track.
 
 Specific Expectations: Detailed deliverables, such as the frequency of posts or specific placement of logos, will be governed by a separate Mutual Expectations Addendum unique to each affiliate.
 
-5. Payments and Fees
+6. Payments and Fees
 Unless explicitly stated in a signed Mutual Expectations Addendum, affiliation is considered a "barter" or "value-in-kind" relationship with no direct monetary compensation.
 
 If a specific track includes commissions, those terms will be defined in the supplemental file.
@@ -46,24 +52,37 @@ Each party is responsible for their own costs associated with the promotional ac
 
 Any late payments (if applicable via addendum) may result in immediate suspension of the affiliation.
 
-6. Right to Withdraw and Termination
+7. Right to Withdraw and Termination
 Either party may terminate the affiliation at any time.
 
 Affiliate Withdrawal: Affiliates may back out of the program at any time provided they have reciprocated any existing promotional efforts or "value-in-kind" services already rendered by Trak Vault.
 
-Trak Vault Termination: We reserve the right to suspend or terminate any affiliation without prior notice for violations of these Terms, brand misalignment, or any activities that may harm the reputation of Trak Vault.
+Trak Vault Termination: Trak Vault reserves the right to suspend or terminate any affiliation without prior notice for violations of these Terms, brand misalignment, or any activities that may harm the reputation of Trak Vault.
 
-7. Termination and Suspension
-We reserve the right to suspend or terminate any affiliation without prior notice for violations of these Terms, brand misalignment, or any activities that may harm the reputation of Trak Vault.
+8. Failure to Reciprocate
+If a party fails to fulfill the mutual promotional obligations defined in these Terms or any applicable Mutual Expectations Addendum, the non-breaching party reserves the right to:
 
-8. Limitation of Liability
+Immediately suspend their own promotional efforts and deliverables.
+
+Terminate the affiliation for cause without prior notice.
+
+Require the immediate removal of all branding, logos, and promotional assets from the breaching party’s platforms.
+
+Seek equivalent value or restitution for promotional services already rendered that were not reciprocated as agreed.
+
+9. Independent Contractor Relationship
+Affiliates are independent partners. Nothing in these Terms creates a partnership, joint venture, agency, or employment relationship. Each party retains full control over their own business operations.
+
+10. Limitation of Liability
 Trak Vault shall not be liable for any indirect, incidental, or consequential damages resulting from the affiliation. Our total liability shall not exceed any fees or value-in-kind services exchanged during the six months preceding a claim.
 
-9. Changes to These Terms
-We may update these Terms at any time. When changes are made, affiliates will be prompted to review and accept the revised Terms. Continued participation in the program constitutes acceptance of the updated Terms.
+11. Changes to These Terms
+Trak Vault may update these Terms at any time. When changes are made, affiliates will be prompted to review and accept the revised Terms. Continued participation in the program constitutes acceptance of the updated Terms.
 
-10. Governing Law
-These Terms shall be governed by and interpreted in accordance with the laws of the United States.
+12. Governing Law
+These Terms shall be governed by and interpreted in accordance with the laws of the United States and the State of Washington. Nothing in this document shall supersede or override any applicable federal, state, or local laws.
 
-11. Contact Information
+13. Contact Information
 For any questions regarding these Terms or to discuss a specific Mutual Expectations Addendum, please contact us at trakvault1@gmail.com.
+
+By participating in the Trak Vault Affiliate Program, you acknowledge that you have read, understood, and agreed to these Terms.
